@@ -2,7 +2,7 @@
 
 A small utility to merge multiple `retroarch.cfg` files.
 
-Retroarch already lets you overlay multiple config files via CLI, however, sometimes you don't have much control over how RetroArch is invoked (e.g. retro handhelds). This helps alleviate those odd cases.
+RetroArch already lets you overlay multiple config files via CLI, however, sometimes you don't have much control over how RetroArch is invoked (e.g. retro handhelds). This helps alleviate those odd cases.
 
 ## Usage
 ```
