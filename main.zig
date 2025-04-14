@@ -6,7 +6,6 @@ pub fn main() !void {
 
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
     const allocator = gpa.allocator();
-    // defer _ = gpa.deinit();
 
     // parse arguments
     var output_file: ?[]const u8 = null;
